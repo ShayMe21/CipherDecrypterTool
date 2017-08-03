@@ -248,7 +248,7 @@ int checkColumnarCipher(string cipher, vector<string>& dic, ofstream& f)
 
 		unsigned int remainder = cipher.length() % i;
 
-		char textBlock[rows][i];
+		char textBlock[20][20];
 		for (unsigned int column = 0; column < i; column++)
 		{
 			if (remainder >= (column + 1))

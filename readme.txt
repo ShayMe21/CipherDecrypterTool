@@ -1,11 +1,40 @@
-The zip file contains 5 files, all in text format
+========================================================================
+    CONSOLE APPLICATION : CipherDecrypterTool Project Overview
+========================================================================
 
-readme.txt - this readme file
+AppWizard has created this CipherDecrypterTool application for you.
 
-dict_en.txt - an English dictionary file which contains one word on each line
+This file contains a summary of what you will find in each of the files that
+make up your CipherDecrypterTool application.
 
-input.txt - a test file provided to test your program, which contains a ciphertext message on each separate line
 
-words.txt - a list of technical words that were used for shifting the alphabet in modified Caesar cipher
+CipherDecrypterTool.vcxproj
+    This is the main project file for VC++ projects generated using an Application Wizard.
+    It contains information about the version of Visual C++ that generated the file, and
+    information about the platforms, configurations, and project features selected with the
+    Application Wizard.
 
-sol.txt - the plaintext messages for the ciphertext messages in sol.txt. This should be the desirable output of your program given the test file and the dictionary, provided that your program functions correctly 
+CipherDecrypterTool.vcxproj.filters
+    This is the filters file for VC++ projects generated using an Application Wizard. 
+    It contains information about the association between the files in your project 
+    and the filters. This association is used in the IDE to show grouping of files with
+    similar extensions under a specific node (for e.g. ".cpp" files are associated with the
+    "Source Files" filter).
+
+CipherDecrypterTool.cpp
+    This is the main application source file.
+
+/////////////////////////////////////////////////////////////////////////////
+Other standard files:
+
+StdAfx.h, StdAfx.cpp
+    These files are used to build a precompiled header (PCH) file
+    named CipherDecrypterTool.pch and a precompiled types file named StdAfx.obj.
+
+/////////////////////////////////////////////////////////////////////////////
+Other notes:
+
+AppWizard uses "TODO:" comments to indicate parts of the source code you
+should add to or customize.
+
+/////////////////////////////////////////////////////////////////////////////
